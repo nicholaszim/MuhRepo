@@ -1,0 +1,6 @@
+E:\SoftServe\Tasks\Additional Tasks\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+E:\SoftServe\Tasks\Additional Tasks\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+E:\SoftServe\Tasks\Additional Tasks\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+E:\SoftServe\Tasks\Additional Tasks\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+E:\SoftServe\Tasks\Additional Tasks\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+E:\SoftServe\Tasks\Additional Tasks\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

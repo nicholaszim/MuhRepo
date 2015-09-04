@@ -1,0 +1,2 @@
+D:\nn\DB1\DB1\bin\Debug\DB1.exe.config
+E:\SoftServe\Tasks\Additional Tasks\DB1\DB1\bin\Debug\DB1.exe.config
